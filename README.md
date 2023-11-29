@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hello 👋
+I'm a big fan of:
+- [Polkadot Network](https://polkadot.network/)
+- [Interlay BTC](https://www.interlay.io/)
+- [HydraDX](https://hydradx.io/)
+- [Centrifuge](https://centrifuge.io/)
+- [MakerDAO](https://makerdao.com/)
+- [AAVE](https://aave.com/)
 <!--
 **EktvWcksvn/EktvWcksvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
