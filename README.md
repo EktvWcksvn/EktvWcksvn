@@ -6,6 +6,15 @@ I'm a big fan of:
 - [Centrifuge](https://centrifuge.io/)
 - [MakerDAO](https://makerdao.com/)
 - [AAVE](https://aave.com/)
+
+Providing dumb ideas that you can laugh at.
+You can reach me at:
+- [Twitter/𝕏](https://twitter.com/Ekatva336115)
+- [Polkadot Forum](https://forum.polkadot.network/u/ektvwcksvn/activity)
+
+Gimme, gimme :blush: :
+DOT : `13deMpfzo8UmpEkBhzD7mxQXznRW6cxXgPZo4mf6XnbX7kom`
+KSM : `FCxsokoZiEE8MZ7X3yAXkwPHki6CzDa4Gg4J8whTVnVgT2o`
 <!--
 **EktvWcksvn/EktvWcksvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
